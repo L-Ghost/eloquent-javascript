@@ -1,0 +1,7 @@
+{
+	"name": "eloquent-javascript",
+	"description": "Exercises from book of the same name.",
+	"scripts": {
+		"test": "./node_modules/.bin/jasmine"
+	}
+}
